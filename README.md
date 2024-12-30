@@ -20,6 +20,7 @@ He/him
 Scratch: @31parkjulian(우선의/preferred), @13parljulian
 
 Github: 지금 바로 보고 계십니다!/You're on it right now!
+
 Discord: jaypea2006
 
 Reddit: u/36parkjulian
