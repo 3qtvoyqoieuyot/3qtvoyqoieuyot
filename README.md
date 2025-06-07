@@ -13,7 +13,7 @@ He/him
 
 내 도구/My tools: Arc + Firefox, Turbowarp, Scratch, VS Code, macOS
 
-저는 지금 Python, French, Esperanto를 배우고 있어요./I'm currently learning Python, French, and Esperanto!
+저는 지금 Python, French, Esperanto를 배우고 있어요./I'm currently learning Python, French, and Mandarin!
 
 # Accounts
 
